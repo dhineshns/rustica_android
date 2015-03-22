@@ -22,8 +22,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CreateEventActivity"
-            android:label="@string/title_activity_settings"
+            android:name=".MyEventsActivity"
+            android:label="@string/my_events"
             android:parentActivityName=".MainActivity">
         </activity>
     </application>

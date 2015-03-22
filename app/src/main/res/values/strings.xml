@@ -5,7 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="scan">Scan</string>
-    <string name="title_activity_settings">Settings</string>
+    <string name="my_events">My Events</string>
     <string name="eventName">Event Name</string>
+    <string name="createEventConfirm"> Create</string>
 
 </resources>

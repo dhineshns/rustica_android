@@ -90,7 +90,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void openCreateEvent() {
-        Intent intent = new Intent(this, CreateEventActivity.class);
+        Intent intent = new Intent(this, MyEventsActivity.class);
         startActivity(intent);
     }
 }
